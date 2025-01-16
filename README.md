@@ -32,9 +32,11 @@
 <br><br>
 
 <div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=lje00220) &nbsp;&nbsp;&nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lje00220&exclude_repo=bigdata-project&layout=donut)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lje00220&card_height=220)](https://git.io/streak-stats) &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lje00220&exclude_repo=bigdata-project&layout=donut" />
+  </a>
 </div>
 
 
