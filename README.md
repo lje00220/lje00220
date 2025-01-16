@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lje00220&card_height=220)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lje00220&card_width=400&card_height=220&hide_longest_streak=true)](https://git.io/streak-stats) &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lje00220&exclude_repo=bigdata-project&layout=donut" />
   </a>
