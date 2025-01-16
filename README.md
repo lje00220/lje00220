@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h3>⚒️Tech Stacks⚒️</h3>
+<h3>⚒️ Tech Stacks ⚒️</h3>
   
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 <br><br>
 
 <div align="center">
-  <h3>📫About Me📫</h3>
+  <h3>📫 About Me 📫</h3>
   <a href="https://velog.io/@bungbuung">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
